@@ -9,7 +9,7 @@ Usage:
     python load_voice_dataset.py --character "Seele" --language Japanese
 
 Requirements:
-    pip install playwright beautifulsoup4 requests
+    pip install playwright beautifulsoup4 requests 
     playwright install chromium
 """
 
